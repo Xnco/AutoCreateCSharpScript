@@ -4,3 +4,10 @@ E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\bin\De
 E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
 E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\GithubProject\AutoCreateCSharpScript\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
