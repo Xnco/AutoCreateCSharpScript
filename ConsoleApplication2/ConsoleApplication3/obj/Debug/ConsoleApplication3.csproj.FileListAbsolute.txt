@@ -1,0 +1,6 @@
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\GithubProject\RPG-Game-Console\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
